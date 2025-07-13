@@ -4,6 +4,8 @@ This is a simple import plugin for **Godot 4.x** that allows you to import a fix
 
 The reason this plugin was created was because I needed a way to import a packed bitmap font while allowing custom letter spacing.
 
+![Demo screenshot](https://github.com/Donitzo/godot-simple-bitmap-font/blob/main/example.png)
+
 ## Usage
 
 1. Install the plugin:
