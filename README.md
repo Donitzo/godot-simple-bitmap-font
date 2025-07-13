@@ -2,8 +2,6 @@
 
 This is a simple import plugin for **Godot 4.x** that allows you to import a fixed-tile bitmap font from a PNG file.
 
----
-
 ## Usage
 
 1. Install the plugin:
