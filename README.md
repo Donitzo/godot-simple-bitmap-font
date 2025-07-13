@@ -37,9 +37,9 @@ Use the `spacing_overrides` field to control offset and spacing for specific cha
 ```
 /\<char\_or\_range>/<offset>,<spacing>
 
-Examples:
+Example:
 
-/./0,2
-/a-c/1,4
-/%fs%/0,1
+/./-2,-6
+/a-c/-1,-2
+/%fs%/0,0
 ```
