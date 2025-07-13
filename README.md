@@ -2,7 +2,7 @@
 
 This is a simple import plugin for **Godot 4.x** that allows you to import a fixed-tile bitmap font from a PNG file.
 
-The reason this plugin was created was because I just needed a way to import a packed bitmap font while allowing custom letter spacing.
+The reason this plugin was created was because I needed a way to import a packed bitmap font while allowing custom letter spacing.
 
 ## Usage
 
